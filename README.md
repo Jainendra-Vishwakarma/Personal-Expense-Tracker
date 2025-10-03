@@ -1,5 +1,5 @@
 # Personal-Expense-Tracker
-A command-line (CLI) personal expense tracker built . This application allows users to add, view, update, delete, and analyze their spending habits through a simple terminal interface.
+A command-line (CLI) personal expense tracker built with java. This application allows users to add, view, update, delete, and analyze their spending habits through a simple terminal interface.
 Personal Expense Tracker (Java CLI)
 
 A simple **Personal Expense Tracker** built in Java.
