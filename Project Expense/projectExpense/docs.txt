@@ -1,0 +1,27 @@
+Personal Expense Tracker – Short Documentation
+
+ASSUMPTIONS:
+
+User enters valid date in YYYY-MM-DD format.
+
+Negative amounts are not allowed.
+
+Data is stored in expenses.csv file.
+
+DESIGN:
+
+Expense.java → Model (id, amount, date, note, category)
+
+ExpenseManager.java → Manages CRUD operations + file handling
+
+Main.java → User interface (CLI menu)
+
+SAMPLE INPUT:
+Amount: 2000
+Date: 2025-10-04
+Category: Food
+Note: Dinner
+
+SAMPLE OUTPUT:
+ID Amount Date Category Note
+1 2000.00 2025-10-04 Food Dinner
