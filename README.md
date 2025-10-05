@@ -18,15 +18,15 @@ Features
 
 Tech Stack
 - Java 17 (works on Java 11+)
-  - IntelliJ IDEA
+- - IntelliJ IDEA
 - CSV for data storage
 
 ---
 How to Run
 1. Clone or unzip the project.
 2. Open it in **IntelliJ IDEA**.
-   3. Run `Main.java`.
-   4. Follow the menu options.
+3. Run `Main.java`.
+4. Follow the menu options.
 
         ---
 
