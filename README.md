@@ -17,8 +17,8 @@ Features
 ---
 
 Tech Stack
-- Java 17 (works on Java 11+)
-- - IntelliJ IDEA
+- Java 18 (works on Java 11+)
+- - IntelliJ IDEA and eclipse 
 - CSV for data storage
 
 ---
