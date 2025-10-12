@@ -1,4 +1,4 @@
-## Personal-Expense-Tracker
+# Personal-Expense-Tracker
 A command-line (CLI) personal expense tracker built with java. This application allows users to add, view, update, delete, and analyze their spending habits through a simple terminal interface.
 Personal Expense Tracker (Java CLI)
 
@@ -6,7 +6,7 @@ A simple **Personal Expense Tracker** built in Java.
 This project allows users to add, view, update, and delete expenses with data stored in a CSV file for persistence.
 
 -------
-# Features
+## Features
 - Add expense (amount, date, note, category)
 - View all expenses
 - Update expense by ID
@@ -16,13 +16,13 @@ This project allows users to add, view, update, and delete expenses with data st
 
 ---
 
-# Tech Stack
+## Tech Stack
 - Java 18 (works on Java 11+)
 - - IntelliJ IDEA and eclipse 
 - CSV for data storage
 
 ---
-# How to Run
+## How to Run
 1. Clone or unzip the project.
 2. Open it in **IntelliJ IDEA**.
 3. Run `Main.java`.
@@ -30,7 +30,7 @@ This project allows users to add, view, update, and delete expenses with data st
 
         ---
 
-Sample CSV
+## Sample CSV
 ```csv
 1,1200.0,2025-10-04,Food,Lunch
 2,500.0,2025-10-05,Travel,Bus ticket  
